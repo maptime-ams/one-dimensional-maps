@@ -4,7 +4,7 @@ During the second edition of Maptime Amsterdam, we worked on hand-drawn _one-dim
 
 We used [gdal2tiles](http://www.gdal.org/gdal2tiles.html) to create map tiles of the photographed workshop results, as explained in Maptime Amsterdam's [`gdal2tiles-example` repository](https://github.com/maptime-ams/gdal2tiles-example).
 
-Results:
+Some of the workshop results:
 
 - [Ifrik's map](http://maptime-ams.github.io/one-dimensional-maps/maps/ifrik)
 - [Michiel's map](http://maptime-ams.github.io/one-dimensional-maps/maps/michiel)
